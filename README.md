@@ -1,2 +1,3 @@
-# mw_turtlebot3
-All rights belongs to MathWorks, all I do is just extract the files so if you do not want the virtual machine, you could run on your own environment.
+# Dummy pkg for storing files
+
+Figure out all the turtlebot dependency by yourself, this is just a dummy pkg for launch files and world files.
